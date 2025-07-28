@@ -6,7 +6,7 @@ This project demonstrates fine-tuning the Unsloth Gemma 3 4B model for Optical C
 
 The goal of this project is to adapt a pre-trained Gemma 3 4B model to accurately extract Vietnamese text from images, specifically focusing on scanned documents or images containing text.
 
-##Demo
+## Demo
 ![Sample Image](Demo.png)
 
 ## Dataset
