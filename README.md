@@ -23,3 +23,6 @@ The project fine-tunes the `unsloth/gemma-3-4b-pt-unsloth-bnb-4bit` model. This 
 ## Setup and Installation
 
 The project relies on the `unsloth` library and other dependencies. The provided notebook includes steps to install the necessary packages.
+
+## Reference
+Link: https://docs.unsloth.ai/get-started/fine-tuning-llms-guide
